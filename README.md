@@ -1,7 +1,7 @@
 
 # Simplified Phasmatodea Population Evolution (PPE) Algorithm
 
-[![Stargazers](https://img.shields.io/github/stars/spcity/Simplified-Phasmatodea-population-evolution-algorithm-PPE?style=social)](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/stargazers)
+[![Stargazers](https://img.shields.io/github/stars/spcity/Simplified-Phasmatodea-population-evolution-algorithm-PPE?style=social)](https://github.com/spcity/Simplified-Phasmatodea-population-evolution-algorithm-PPE/stargazers)
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fspcity%2FSimplified-Phasmatodea-population-evolution-algorithm-PPE&countColor=%23263759&style=flat)](https://github.com/spcity/Simplified-Phasmatodea-population-evolution-algorithm-PPE)
 ## 📜 Overview
 
